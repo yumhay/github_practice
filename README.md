@@ -2,3 +2,4 @@
 fetch
 pull
 push
+pullrequest
